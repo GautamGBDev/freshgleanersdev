@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Gabarito';
+    font-weight: 400;
+    src: url('/app/assets/fonts/Gabarito/Gabarito-Regular.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Gabarito';
+    font-weight: 700;
+    src: url('/app/assets/fonts/Gabarito/Gabarito-Bold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Gabarito';
+    font-weight: 900;
+    src: url('/app/assets/fonts/Gabarito/Gabarito-Black.ttf') format('truetype');
+  }
